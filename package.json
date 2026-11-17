@@ -1,0 +1,9 @@
+﻿{
+  "name": "studio-index",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An original responsive creative portfolio website",
+  "scripts": {
+    "start": "node -e \"console.log('Open index.html in your browser.')\""
+  }
+}
